@@ -32,5 +32,5 @@ Background in **Junior SQA** helps me write **clean, bug-free code**.
 
 **Muhammad Jahanzaib**
 
-- 🌐 Portfolio: [jahanzaib-20.netlify.app](https://jahanzaib-20.netlify.app/) - 💼 LinkedIn: [@jahanzaibarain](https://www.linkedin.com/in/jahanzaib-arain/)
-- 📧 **Email:** [arainjhanzaib@gmail.com](mailto:arainjhanzaib@gmail.com) - 💻 GitHub: [@jahanzaibarain](https://github.com/Jahanzaib-Arain24)
+- 🌐 Portfolio: [jahanzaib-20.netlify.app](https://jahanzaib-20.netlify.app/) - 💼 LinkedIn: [@jahanzaib-arain](https://www.linkedin.com/in/jahanzaib-arain/)
+- 📧 **Email:** [arainjhanzaib@gmail.com](mailto:arainjhanzaib@gmail.com) - 💻 GitHub: [@Jahanzaib-Arain24](https://github.com/Jahanzaib-Arain24)
