@@ -29,4 +29,4 @@ Background in **Junior SQA** helps me write **clean, bug-free code**.
 ---
 
 ## 📫 Connect with Me
-🔗 <a href="https://www.linkedin.com/in/jahanzaibarain" target="_blank">LinkedIn</a>   | 🐙 <a href="https://github.com/Jahanzaib-Arain24" target="_blank">GitHub</a> | ✉️ <a href="mailto:arainjhanzaib@gmail.com" target="_blank">arainjhanzaib@gmail.com</a>
+🔗 <a href="https://www.linkedin.com/in/jahanzaib-arain/" target="_blank">LinkedIn</a>   | 🐙 <a href="https://github.com/Jahanzaib-Arain24" target="_blank">GitHub</a> | ✉️ <a href="mailto:arainjhanzaib@gmail.com" target="_blank">arainjhanzaib@gmail.com</a>
