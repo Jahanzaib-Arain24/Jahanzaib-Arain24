@@ -22,11 +22,13 @@ Background in **Junior SQA** helps me write **clean, bug-free code**.
 ## 🚀 Projects
 - [Voice of Spain](https://www.vos.media/) – Multilingual news portal  
 - [Saint Albert's University](https://saiu.education/) – University website  
-- [The National University of Penal](https://www.pass.university/) – University website
+- [The National University of Penal](https://www.pass.university/) – Spain University website
 - [Vantix Digital](https://vantix-digital.netlify.app/) – Digital agency website  
 - [Portfolio](https://jahanzaib-20.netlify.app/) – Personal portfolio  
 
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/jahanzaibarain) | [GitHub](https://github.com/Jahanzaib-Arain24) | ✉️ arainjhanzaib@gmail.com
+- <a href="https://www.linkedin.com/in/jahanzaib-arain/" target="_blank">LinkedIn</a>  
+- <a href="https://github.com/Jahanzaib-Arain24" target="_blank">GitHub</a>  
+- ✉️ <a href="mailto:arainjhanzaib@gmail.com" target="_blank">arainjhanzaib@gmail.com</a>
