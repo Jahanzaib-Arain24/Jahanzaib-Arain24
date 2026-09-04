@@ -6,7 +6,7 @@
 ---
 
 ## 💻 About Me
-Front-End Developer who moved from QA into React development in under a year — bringing a bug-hunter's eye to every interface shipped. Built and deployed **5+ live projects** (multilingual news platform, university admin systems, agency sites) solo, from UI to backend integration. Now focused on **React.js** and **Web Development** roles where clean code and QA instincts both matter.  
+Front-End Developer who moved from QA into React development in under a year bringing a bug-hunter's eye to every interface shipped. Built and deployed **5+ live projects** (multilingual news platform, university admin systems, agency sites) solo, from UI to backend integration. Now focused on **React.js** and **Web Development** roles where clean code and QA instincts both matter.  
 
 ---
 
@@ -35,11 +35,11 @@ Front-End Developer who moved from QA into React development in under a year —
 ---
 
 ## 🚀 Projects
-- [Voice of Spain](https://www.vos.media/) – Multilingual news portal (EN/ES/HI/UR) serving Spain's diaspora communities  
-- [Saint Albert's University](https://saiu.education/) – University website with dynamic application system & backend management  
-- [The National University of Penal](https://www.pass.university/) – Admin panel for university operations & content management  
-- [Vantix Digital](https://vantix-digital.netlify.app/) – Digital agency website with service showcase & client inquiry system  
-- [Portfolio](https://jahanzaib-20.netlify.app/) – Personal portfolio with smooth animations & working contact form  
+- <a href="https://www.vos.media/" target="_blank">Voice of Spain</a> – Multilingual news portal (EN/ES/HI/UR) serving Spain's diaspora communities  
+- <a href="https://saiu.education/" target="_blank">Saint Albert's University</a> – University website with dynamic application system & backend management  
+- <a href="https://www.pass.university/" target="_blank">The National University of Penal</a> – Admin panel for university operations & content management  
+- <a href="https://vantix-digital.netlify.app/" target="_blank">Vantix Digital</a> – Digital agency website with service showcase & client inquiry system  
+- <a href="https://jahanzaib-20.netlify.app/" target="_blank">Portfolio</a> – Personal portfolio with smooth animations & working contact form  
 
 ---
 
@@ -61,5 +61,5 @@ Front-End Developer who moved from QA into React development in under a year —
 
 **Muhammad Jahanzaib**
 
-- 🌐 Portfolio: [Jahanzaib-Portfolio](https://jahanzaib-20.netlify.app/) - 💼 LinkedIn: [@Jahanzaib-Arain](https://www.linkedin.com/in/jahanzaib-arain/)
-- 📧 **Email:** [arainjhanzaib@gmail.com](mailto:arainjhanzaib@gmail.com) - 💻 GitHub: [@Jahanzaib-Arain24](https://github.com/Jahanzaib-Arain24)
+- 🌐 Portfolio: <a href="https://jahanzaib-20.netlify.app/" target="_blank">Jahanzaib-Portfolio</a> - 💼 LinkedIn: <a href="https://www.linkedin.com/in/jahanzaib-arain/" target="_blank">@Jahanzaib-Arain</a>
+- 📧 **Email:** <a href="mailto:arainjhanzaib@gmail.com">arainjhanzaib@gmail.com</a> - 💻 GitHub: <a href="https://github.com/Jahanzaib-Arain24" target="_blank">@Jahanzaib-Arain24</a>
