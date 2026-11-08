@@ -30,34 +30,34 @@ Shipped **6+ production web systems** solo and within agile teams, ranging from 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🔹 [Vantix Digital](https://vantix-digital.netlify.app/) — Agency Web Application
+### 🔹 Vantix Digital — Agency Web Application
 - **Tech Stack:** Next.js 16, React 19, TypeScript, Tailwind CSS, Lucide Icons
 - **Key Highlights:** Engineered an agency web app featuring sub-second FCP, zero Cumulative Layout Shift (CLS), interactive 3-tier SLA pricing modals, and a dynamic one-click WhatsApp lead routing funnel.
 - 🔗 **Links:** [Live Demo](https://vantix-digital.netlify.app/) • [GitHub Repository](https://github.com/Jahanzaib-Arain24/Vantix-Digital)
 
-### 🔹 [Little Lemon Bistro](https://littlelemon-bistro.netlify.app/) — Smart Table Reservation Platform *(Meta Capstone)*
+### 🔹 Little Lemon Bistro — Smart Table Reservation Platform *(Meta Capstone)*
 - **Tech Stack:** React 19, React Router v6, CSS3 Design Tokens, Jest
 - **Key Highlights:** Built an online table booking engine powered by `useReducer` state management for real-time slot allocation, strict client-side form validation, 100% WCAG 2.1 AA accessibility compliance, and 8/8 passing Jest unit tests.
 - 🔗 **Links:** [Live Demo](https://littlelemon-bistro.netlify.app/) • [GitHub Repository](https://github.com/Jahanzaib-Arain24/Little-Lemon-Restaurant)
 
-### 🔹 [TaskBuddy](https://taskbuddy-portal.infinityfreeapp.com/) — Online Task & Gig Marketplace
+### 🔹 TaskBuddy — Online Task & Gig Marketplace
 - **Tech Stack:** PHP 8.2, MySQL, Bootstrap, Vanilla CSS Tokens, PWA
 - **Key Highlights:** Engineered a 4-module marketplace (Public Hub, Seeker, Lister, Admin) featuring an integrated ATS hiring pipeline, dynamic 2-column print-ready CV generator, 14 relational tables, and a custom QA suite passing 785 automated test assertions.
 - 🔗 **Links:** [Live Demo](https://taskbuddy-portal.infinityfreeapp.com/) • [GitHub Repository](https://github.com/Jahanzaib-Arain24/TaskBuddy-Web-Portal)
 
-### 🔹 [UNIPASS](https://www.pass.university/) — Security Sciences University Portal
+### 🔹 UNIPASS — Security Sciences University Portal
 - **Tech Stack:** PHP 8.3, HTML5, CSS3 Custom Properties, Google reCAPTCHA v2
 - **Key Highlights:** Built and deployed an institutional portal covering 60+ programmes across 5 academic levels, featuring server-side reCAPTCHA bot defense, modular PHP page builders, and automated notification pipelines.
 - 🔗 **Links:** [Live Demo](https://www.pass.university/) • [GitHub Repository](https://github.com/Jahanzaib-Arain24/National-University-Of-Penal-Website)
 
-### 🔹 [Saint Albert's International University](https://saiu.education/) — Academic Campus Portal
+### 🔹 Saint Albert's International University — Academic Campus Portal
 - **Tech Stack:** PHP 8, HTML5, CSS3, Session CAPTCHA
 - **Key Highlights:** Developed a responsive academic campus portal with real-time dynamic admissions processing, server-side math verification, and privacy-compliant file logging systems.
 - 🔗 **Links:** [Live Demo](https://saiu.education/) • [GitHub Repository](https://github.com/Jahanzaib-Arain24/Saint-Albert-s-International-University)
 
-### 🔹 [Personal Brand Portfolio](https://jahanzaib-20.netlify.app/) — Developer Showcase
+### 🔹 Personal Brand Portfolio — Developer Showcase
 - **Tech Stack:** React.js, Tailwind CSS, Netlify CDN
 - **Key Highlights:** Modern personal portfolio featuring smooth animations, glassmorphic UI components, and direct client conversion funnels.
 - 🔗 **Links:** [Live Demo](https://jahanzaib-20.netlify.app/) • [GitHub Repository](https://github.com/Jahanzaib-Arain24)
