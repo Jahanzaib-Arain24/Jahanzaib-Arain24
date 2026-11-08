@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahanzaib-arain/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-10b981?style=flat&logo=netlify&logoColor=white)](https://jahanzaib-20.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jahanzaib-Arain24)
-[![Meta Certified](https://img.shields.io/badge/Meta_Certified-Front--End_Developer-0668E1?style=flat&logo=meta&logoColor=white)](https://coursera.org/verify/professional-cert/1RVNEHDTY3FS)
+[![Meta Certified](https://img.shields.io/badge/Meta_Certified-Front--End_Developer-0668E1?style=flat&logo=meta&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/IRVNEHQTY3FS)
 [![Email](https://img.shields.io/badge/Email-arainjhanzaib%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arainjhanzaib@gmail.com)
 
 ---
@@ -26,20 +26,41 @@ Shipped **6+ production web systems** solo and within agile teams, ranging from 
 - **Frontend & Architecture:** React.js, Next.js 16 (App Router), TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Responsive Design Tokens
 - **Testing, QA & Accessibility:** Jest Unit Testing, React Testing Library, WCAG 2.1 AA Accessibility, Manual & Regression Testing, Defect Tracking (Jira), SDLC & STLC
 - **Backend & Systems:** PHP 8, MySQL, PDO Prepared Statements, RESTful APIs, Session Management, OWASP Security Hardening (CSRF, SQLi, XSS)
-- **DevOps, Tooling & Workflows:** Git, GitHub, Netlify, VS Code, Postman, Figma, Agile/Scrum, AI-Assisted Workflows
+- **Tools & Workflow:** Git, GitHub, Netlify, WordPress, Antigravity, VS Code, Claude Code, Cursor, Figma, Postman, Microsoft Office, Agile/Scrum, AI-Assisted Workflows
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Live Demo | Repository | Core Tech Stack |
-| :--- | :---: | :---: | :--- |
-| **Vantix Digital**<br>Digital Agency Web Application | [Live Demo](https://vantix-digital.netlify.app/) | [GitHub](https://github.com/Jahanzaib-Arain24/Vantix-Digital) | Next.js 16, React 19, TypeScript, Tailwind CSS, Lucide Icons, WhatsApp Lead Funnel |
-| **Little Lemon Bistro**<br>Smart Table Reservation Platform *(Meta Capstone)* | [Live Demo](https://littlelemon-bistro.netlify.app/) | [GitHub](https://github.com/Jahanzaib-Arain24/Little-Lemon-Restaurant) | React 19, React Router v6, useReducer State, Jest Unit Tests (8/8 Pass), WCAG 2.1 AA |
-| **TaskBuddy Web Portal**<br>Task Marketplace & ATS Engine | [Live Demo](https://taskbuddy-portal.infinityfreeapp.com/) | [GitHub](https://github.com/Jahanzaib-Arain24/TaskBuddy-Web-Portal) | PHP 8.2, MySQL, ATS Pipeline, Dynamic CV Builder, 785 QA Tests |
-| **UNIPASS Web Portal**<br>Security Sciences University Platform | [Live Demo](https://www.pass.university/) | [GitHub](https://github.com/Jahanzaib-Arain24/National-University-Of-Penal-Website) | PHP 8.3, Google reCAPTCHA v2, 60+ Academic Programmes, Modular Architecture |
-| **Saint Albert's University**<br>International Academic Campus | [Live Demo](https://saiu.education/) | [GitHub](https://github.com/Jahanzaib-Arain24/Saint-Albert-s-International-University) | PHP 8, Session CAPTCHA, Privacy Logging, Modular PHP Builder |
-| **Personal Brand Portfolio**<br>Interactive Developer Showcase | [Live Demo](https://jahanzaib-20.netlify.app/) | [GitHub](https://github.com/Jahanzaib-Arain24) | React.js, Netlify CDN, WhatsApp Conversion Desk, Responsive UI |
+### 🔹 [Vantix Digital](https://vantix-digital.netlify.app/) — Agency Web Application
+- **Tech Stack:** Next.js 16, React 19, TypeScript, Tailwind CSS, Lucide Icons
+- **Key Highlights:** Engineered an agency web app featuring sub-second FCP, zero Cumulative Layout Shift (CLS), interactive 3-tier SLA pricing modals, and a dynamic one-click WhatsApp lead routing funnel.
+- 🔗 **Links:** [Live Demo](https://vantix-digital.netlify.app/) • [GitHub Repository](https://github.com/Jahanzaib-Arain24/Vantix-Digital)
+
+### 🔹 [Little Lemon Bistro](https://littlelemon-bistro.netlify.app/) — Smart Table Reservation Platform *(Meta Capstone)*
+- **Tech Stack:** React 19, React Router v6, CSS3 Design Tokens, Jest
+- **Key Highlights:** Built an online table booking engine powered by `useReducer` state management for real-time slot allocation, strict client-side form validation, 100% WCAG 2.1 AA accessibility compliance, and 8/8 passing Jest unit tests.
+- 🔗 **Links:** [Live Demo](https://littlelemon-bistro.netlify.app/) • [GitHub Repository](https://github.com/Jahanzaib-Arain24/Little-Lemon-Restaurant)
+
+### 🔹 [TaskBuddy](https://taskbuddy-portal.infinityfreeapp.com/) — Online Task & Gig Marketplace
+- **Tech Stack:** PHP 8.2, MySQL, Bootstrap, Vanilla CSS Tokens, PWA
+- **Key Highlights:** Engineered a 4-module marketplace (Public Hub, Seeker, Lister, Admin) featuring an integrated ATS hiring pipeline, dynamic 2-column print-ready CV generator, 14 relational tables, and a custom QA suite passing 785 automated test assertions.
+- 🔗 **Links:** [Live Demo](https://taskbuddy-portal.infinityfreeapp.com/) • [GitHub Repository](https://github.com/Jahanzaib-Arain24/TaskBuddy-Web-Portal)
+
+### 🔹 [UNIPASS](https://www.pass.university/) — Security Sciences University Portal
+- **Tech Stack:** PHP 8.3, HTML5, CSS3 Custom Properties, Google reCAPTCHA v2
+- **Key Highlights:** Built and deployed an institutional portal covering 60+ programmes across 5 academic levels, featuring server-side reCAPTCHA bot defense, modular PHP page builders, and automated notification pipelines.
+- 🔗 **Links:** [Live Demo](https://www.pass.university/) • [GitHub Repository](https://github.com/Jahanzaib-Arain24/National-University-Of-Penal-Website)
+
+### 🔹 [Saint Albert's International University](https://saiu.education/) — Academic Campus Portal
+- **Tech Stack:** PHP 8, HTML5, CSS3, Session CAPTCHA
+- **Key Highlights:** Developed a responsive academic campus portal with real-time dynamic admissions processing, server-side math verification, and privacy-compliant file logging systems.
+- 🔗 **Links:** [Live Demo](https://saiu.education/) • [GitHub Repository](https://github.com/Jahanzaib-Arain24/Saint-Albert-s-International-University)
+
+### 🔹 [Personal Brand Portfolio](https://jahanzaib-20.netlify.app/) — Developer Showcase
+- **Tech Stack:** React.js, Tailwind CSS, Netlify CDN
+- **Key Highlights:** Modern personal portfolio featuring smooth animations, glassmorphic UI components, and direct client conversion funnels.
+- 🔗 **Links:** [Live Demo](https://jahanzaib-20.netlify.app/) • [GitHub Repository](https://github.com/Jahanzaib-Arain24)
 
 ---
 
@@ -63,11 +84,11 @@ Shipped **6+ production web systems** solo and within agile teams, ranging from 
 
 ## 📜 Certifications
 
-- **Meta Front-End Developer Professional Certificate** — Meta (9-Course Specialization)
-- **Front-End Developer Capstone** — Meta
-- **Coding Interview Preparation** — Meta
-- **Programming with JavaScript** — Meta
-- **Introduction to Front-End Development** — Meta
+- **Meta Front-End Developer Professional Certificate** — Meta *(9-Course Specialization)* — [Verify Certificate](https://www.coursera.org/account/accomplishments/professional-cert/IRVNEHQTY3FS)
+- **React Basics & Advanced React** — Meta — [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/P5RQKJZIM85H)
+- **Programming with JavaScript** — Meta — [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/CBQIUWPEZYCI)
+- **Version Control** — Meta — [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/883U7DDE465Q)
+- **Build a Full Website using WordPress** — Coursera — [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/WBBHQWMQ76MR)
 
 ---
 
@@ -79,9 +100,9 @@ Shipped **6+ production web systems** solo and within agile teams, ranging from 
 
 ---
 
-## 📫 Connect with Me
+## 📬 Connect with Me
 
-- 🌐 **Portfolio:** [jahanzaib-20.netlify.app](https://jahanzaib-20.netlify.app/)
-- 💼 **LinkedIn:** [@jahanzaib-arain](https://www.linkedin.com/in/jahanzaib-arain/)
-- 💻 **GitHub:** [@Jahanzaib-Arain24](https://github.com/Jahanzaib-Arain24)
-- 📧 **Email:** [arainjhanzaib@gmail.com](mailto:arainjhanzaib@gmail.com)
+**Muhammad Jahanzaib**
+
+- 🌐 Portfolio: [Jahanzaib-Portfolio](https://jahanzaib-20.netlify.app/) - 💼 LinkedIn: [@Jahanzaib-Arain](https://www.linkedin.com/in/jahanzaib-arain/)
+- ✉️ **Email:** [arainjhanzaib@gmail.com](mailto:arainjhanzaib@gmail.com) - 💻 GitHub: [@Jahanzaib-Arain24](https://github.com/Jahanzaib-Arain24)
