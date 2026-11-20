@@ -6,7 +6,7 @@
 > *Building fast, accessible, and resilient web interfaces with an ex-SQA zero-defect mindset.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahanzaib-arain/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-10b981?style=flat&logo=netlify&logoColor=white)](https://jahanzaib-20.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=flat&logo=vercel&logoColor=white)](https://jahanzaib-24.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jahanzaib-Arain24)
 [![Meta Certified](https://img.shields.io/badge/Meta_Certified-Front--End_Developer-0668E1?style=flat&logo=meta&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/IRVNEHQTY3FS)
 [![Email](https://img.shields.io/badge/Email-arainjhanzaib%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arainjhanzaib@gmail.com)
@@ -23,10 +23,10 @@ Shipped **6+ production web systems** solo and within agile teams, ranging from 
 
 ## 🛠️ Technical Stack
 
-- **Frontend & Architecture:** React.js, Next.js 16 (App Router), TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Responsive Design Tokens
+- **Frontend & Architecture:** React.js, Next.js 16 (App Router), TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS 4, Bootstrap, Responsive Design Tokens
 - **Testing, QA & Accessibility:** Jest Unit Testing, React Testing Library, WCAG 2.1 AA Accessibility, Manual & Regression Testing, Defect Tracking (Jira), SDLC & STLC
-- **Backend & Systems:** PHP 8, MySQL, PDO Prepared Statements, RESTful APIs, Session Management, OWASP Security Hardening (CSRF, SQLi, XSS)
-- **Tools & Workflow:** Git, GitHub, Netlify, WordPress, Antigravity, VS Code, Claude Code, Cursor, Figma, Postman, Microsoft Office, Agile/Scrum, AI-Assisted Workflows
+- **Backend & Systems:** Node.js, Prisma ORM, Neon PostgreSQL, PHP 8, MySQL, PDO Prepared Statements, RESTful APIs, Session Management, OWASP Security Hardening (CSRF, SQLi, XSS)
+- **Tools & Workflow:** Git, GitHub, Vercel, Netlify, WordPress, Antigravity, VS Code, Claude Code, Cursor, Figma, Postman, Microsoft Office, Agile/Scrum, AI-Assisted Workflows
 
 ---
 
@@ -58,9 +58,9 @@ Shipped **6+ production web systems** solo and within agile teams, ranging from 
 - 🔗 **Links:** [Live Demo](https://saiu.education/) • [GitHub Repository](https://github.com/Jahanzaib-Arain24/Saint-Albert-s-International-University)
 
 ### 🔹 Personal Brand Portfolio — Developer Showcase
-- **Tech Stack:** React.js, Tailwind CSS, Netlify CDN
-- **Key Highlights:** Modern personal portfolio featuring smooth animations, glassmorphic UI components, and direct client conversion funnels.
-- 🔗 **Links:** [Live Demo](https://jahanzaib-20.netlify.app/) • [GitHub Repository](https://github.com/Jahanzaib-Arain24)
+- **Tech Stack:** Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS 4, Prisma ORM, Neon PostgreSQL, Framer Motion
+- **Key Highlights:** Enterprise-grade personal engineering platform and dynamic CMS built with Next.js 16 and React 19. Features real-time cloud DB syncing via Prisma ORM & Neon Serverless PostgreSQL, sub-second FCP, zero CLS, interactive project case studies, and a 2x2 responsive skill matrix.
+- 🔗 **Links:** [Live Demo](https://jahanzaib-24.vercel.app/) • [GitHub Repository](https://github.com/Jahanzaib-Arain24/Portfolio-Website)
 
 ---
 
@@ -104,5 +104,5 @@ Shipped **6+ production web systems** solo and within agile teams, ranging from 
 
 **Muhammad Jahanzaib**
 
-- 🌐 Portfolio: [Jahanzaib-Portfolio](https://jahanzaib-20.netlify.app/) - 💼 LinkedIn: [@Jahanzaib-Arain](https://www.linkedin.com/in/jahanzaib-arain/)
+- 🌐 Portfolio: [Jahanzaib-Portfolio](https://jahanzaib-24.vercel.app/) - 💼 LinkedIn: [@Jahanzaib-Arain](https://www.linkedin.com/in/jahanzaib-arain/)
 - ✉️ **Email:** [arainjhanzaib@gmail.com](mailto:arainjhanzaib@gmail.com) - 💻 GitHub: [@Jahanzaib-Arain24](https://github.com/Jahanzaib-Arain24)
